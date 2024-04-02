@@ -1,1 +1,1 @@
-# NEAT-Scouting-Data-Analytics
+### NEAT-Scouting-Data-Analytics - this is our company and project :basketball:
