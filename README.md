@@ -16,7 +16,7 @@ Our slogan - Identifying Undervalued Assets Overlooked by Others.
 
 <h2> Disclaimer :exclamation:</h2>
 
-<h6>Please note that this project is non-profit and intended solely to simulate a real-life scenario for educational purposes. The data scraped from NBA.com and Basketball.Realgm.com has not been used for any commercial purposes. The scenario of a scouting agency is entirely fictional, created to fulfill the requirements of a capstone project.</h6>
+<h6>Please note that this project is non-profit and intended solely to simulate a real-life scenario for educational purposes. The data scraped from NBA.com and Basketball.Realgm.com has not been used for any commercial purposes. The scenario of a scouting agency is entirely fictional, created to fulfill the requirements of a data capstone project.</h6>
 
 <h2>🛠️</h2>
 
