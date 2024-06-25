@@ -1,10 +1,12 @@
 <h1> NEAT Scouting Data Analytics - Identifying Undervalued Assets Overlooked by Others :basketball: </h1>  
 
-<h2> Overview </h2>  
+<h2> Company Overview </h2>  
 
-We are a startup in the field of sports scouting aiming to identify European basketball players fit to play in the NBA.  
+We are a startup specializing in sports scouting, dedicated to identifying European basketball players who are fit to play in the NBA.
 
-Our slogan - Identifying Undervalued Assets Overlooked by Others.  
+Our Slogan: Identifying Undervalued Assets Overlooked by Others
+
+We provide insights into potential countries and players in Europe worth scouting.
 
 ![](pics/bradpittmoneyball.gif)  
 
