@@ -1,4 +1,4 @@
-<h1> NEAT Scouting Data Analytics - Identifying Undervalued Assets Overlooked by Others :basketball: </h1>  
+<h1> Capstone Project: NEAT Scouting Data Analytics - Identifying Undervalued Assets Overlooked by Others :basketball: </h1>  
 
 <h2> Company Overview </h2>  
 
