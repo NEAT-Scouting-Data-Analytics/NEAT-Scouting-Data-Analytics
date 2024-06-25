@@ -14,7 +14,7 @@ Our project aims to highlight statistical differences where European basketball 
 
 <h2> Caveat </h2>  
 
-Please note that this project is non-profit and is aimed merely to simulate a real-life example. 
+***Please note that this project is non-profit and intended solely to simulate a real-life scenario for educational purposes. The data scraped from NBA.com and Basketball.Realgm.com has not been used for any commercial purposes. The scenario of a scouting agency is entirely fictional, created to fulfill the requirements of a capstone project.***
 
 
 
