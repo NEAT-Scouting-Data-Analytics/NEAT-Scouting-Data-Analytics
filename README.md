@@ -6,7 +6,7 @@ We are a startup in the field of sports scouting aiming to identify European bas
 
 Our slogan - Identifying Undervalued Assets Overlooked by Others.  
 
-!["Wait, have I heard this somewhere before??"](pics/bradpittmoneyball.gif)  
+![](pics/bradpittmoneyball.gif)  
 
 <h2> Project´s Goal and Scope </h2>  
 
