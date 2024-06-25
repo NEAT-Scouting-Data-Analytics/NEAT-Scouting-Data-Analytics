@@ -34,7 +34,7 @@
 
 <h2> Don't be too harsh on us just yet...  🛠️</h2>
 
-The project is complete and the code is available in this repo, but certain parts still need to be cleaned and enhanced.  
+The project is done with code available in repo, but certain parts still need to be cleaned and enhanced.  
 
 Our dashboard video demo available [here](https://drive.google.com/file/d/1v8VPUzXmcHHPwnnUjC3OO-MOWdK4WD4C/view?usp=drive_link).  Feel free to check it out! Stay tuned folks! ✌️
 
