@@ -22,7 +22,7 @@
 
 <h6>Please note that this project is non-profit and intended solely to simulate a real-life scenario for educational purposes. The data scraped from NBA.com and Basketball.Realgm.com has not been used for any commercial purposes. The scenario of a scouting agency is entirely fictional, created to fulfill the requirements of a data capstone project.</h6>
 
-<h2>🛠️</h2>
+<h2> Don´t be too harsh on us yet... 🛠️</h2>
 
 
-The project has been finalised. Full project description shall follow shortly :hammer:. Stay tuned!
+The project has been finalised and code is available, however certain parts of code shall be   Full project description shall follow shortly :hammer:. Stay tuned!
