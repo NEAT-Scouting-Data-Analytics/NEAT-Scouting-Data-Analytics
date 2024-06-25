@@ -10,13 +10,13 @@ Our slogan - Identifying Undervalued Assets Overlooked by Others.
 
 <h2> Project Goal and Scope </h2>  
 
-*  Highlight statistical differences where European basketball players stand out compared to their US and international counterparts.
-*  Identify European countries to watch for emerging talent based on defined basketball KPIs for each playing position (Centers, forwards and point guards). 
-*  Deliver an easy-to-use Tableau dashboard, enabling clients to search for suitable prospects effectively.
+*  **Highlight Key Statistical Differences**: Identify where European basketball players excel in comparison to their US and international counterparts.
+*  **Identify Emerging Talent**: Focus on specific European countries showing potential based on key basketball performance indicators (KPIs) for each playing position (centers, forwards, and point guards).
+*  **Deliver an Interactive Dashboard**: Create an intuitive Tableau dashboard that allows clients to effectively search for and analyze suitable prospects.
 
 <h2> Disclaimer :exclamation:</h2>
 
-***Please note that this project is non-profit and intended solely to simulate a real-life scenario for educational purposes. The data scraped from NBA.com and Basketball.Realgm.com has not been used for any commercial purposes. The scenario of a scouting agency is entirely fictional, created to fulfill the requirements of a capstone project.***  
+<h6>***Please note that this project is non-profit and intended solely to simulate a real-life scenario for educational purposes. The data scraped from NBA.com and Basketball.Realgm.com has not been used for any commercial purposes. The scenario of a scouting agency is entirely fictional, created to fulfill the requirements of a capstone project.***</h6>
 
 <h2>🛠️</h2>
 
