@@ -8,6 +8,14 @@ Our slogan - Identifying Undervalued Assets Overlooked by Others.
 
 ![Wait, have I heard this somewhere before??](pics/bradpittmoneyball.gif)  
 
-Our project aims to highlight statistical differences where Europeans stand out, we identified countries in Europe to look out for and we delivered an easy-to-use dashboard in Tableau for our clients to search for prospect players for their teams.
+<h2> Project´s Goal and Scope </h2>  
+
+Our project aims to highlight statistical differences where European basketball players stand out vis a vis their US and international counterparts using two major data sources publicly available from NBA.com and Basketball.Realgm.com. Focus will lie in identifying specific European countries to look out for and deliver an easy-to-use Tableau dashboard for our clients to search for suitable prospects.  
+
+<h2> Caveat </h2>  
+
+Please note that this project is non-profit and is aimed merely to simulate a real-life example. 
+
+
 
 The project has been finalised. Full project description shall follow shortly :hammer:. Stay tuned!
