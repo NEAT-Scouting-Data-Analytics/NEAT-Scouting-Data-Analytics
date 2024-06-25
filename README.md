@@ -1,4 +1,4 @@
-### NEAT-Scouting-Data-Analytics - this is our company and project :basketball:
+#### NEAT-Scouting-Data-Analytics - this is our company and project :basketball:
 
 Our slogan - Identifying Undervalued Assets Overlooked by Others
 
