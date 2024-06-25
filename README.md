@@ -24,5 +24,4 @@
 
 <h2> Don´t be too harsh on us yet... 🛠️</h2>
 
-
-The project has been finalised and code is available, however certain parts of code shall be   Full project description shall follow shortly :hammer:. Stay tuned!
+The project is complete and the code is available in this repo, but certain parts still need to be cleaned and enhanced. The dashboard is currently only available as a video embedded in our uploaded final project presentation. Feel free to check it out! Stay tuned folks! ✌️
