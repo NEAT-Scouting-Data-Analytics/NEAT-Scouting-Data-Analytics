@@ -20,29 +20,21 @@
 
 <h2> Approach </h2>
 
-**1. Data Collection**
+**1. Data Collection**: Several distinct datasets with various players´ statistics were scraped from NBA.com and Basketball.Realgm.com websites using Python. 
 
+**2. Data Cleaning and Preparation**: We cleaned, processed, and prepared the dataset using Python and SQL to ensure accuracy, consistency, and reliability for analysis and visualization in Tableau. 
 
-**2. Data Cleaning and Preparation**
-We cleaned, processed, and prepared the dataset to ensure accuracy, consistency, and reliability for analysis and visualization in Tableau.
+**3. Data Analysis**: Using Python in VS Code (IDE), we performed exploratory, trend, and comparative analyses to uncover insights, correlations, and patterns related to both boxscore and advanced metrics.
 
-**3. Data Analysis**
-Using Python in VS Code, we performed exploratory, trend, and comparative analyses to uncover insights, correlations, and patterns related to 
+**4. Data Management**: To efficiently manage our datasets and collaborate, we stored them in a PostgreSQL database, accessed via a Python connection and engine.
 
-**4. Data Management**
-To efficiently manage our datasets and collaborate, we stored them in a PostgreSQL database, accessed via a Python connection and engine.
+**5. Visualization**: We developed informative visualizations, including line charts, bar and column charts, heat maps, bubble charts, scatter plots, and interactive dashboards, to effectively present and communicate our data and insights.
 
-**5. Visualization**
-We developed informative visualizations, including line charts, bar and column charts, heat maps, bubble charts, tree maps, scatter plots, and interactive dashboards, to effectively present and communicate our data and insights.
+**6. Presentation**: For our presentation, we compiled all charts in Google Slides. Check out our final live presentation [here.](https://docs.google.com/presentation/d/1sZCOxnJRQ4QfDzAp4Lx4Y3WoB4ifM89R/edit?usp=drive_link&ouid=110180696511227343382&rtpof=true&sd=true)
 
-**6. Presentation**
-For our presentation, we compiled all charts in Google Slides. Check out our final live presentation here.
+<h2> Don't be too harsh on us just yet...  🛠️</h2>
 
-<h2> Don't Be Too Harsh on Us Yet...  🛠️</h2>
-
-The project is complete and the code is available in this repo, but certain parts still need to be cleaned and enhanced.
-
-Final stakeholder presentation is available here. 
+The project is complete and the code is available in this repo, but certain parts still need to be cleaned and enhanced.  
 
 Our dashboard video demo available [here](https://drive.google.com/file/d/1v8VPUzXmcHHPwnnUjC3OO-MOWdK4WD4C/view?usp=drive_link).  Feel free to check it out! Stay tuned folks! ✌️
 
