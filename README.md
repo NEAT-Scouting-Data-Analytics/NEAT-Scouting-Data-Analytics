@@ -21,13 +21,13 @@
 <h2> Approach </h2>
 
 **1. Data Collection**
-We initially sourced datasets from OurWorldInData.org, then expanded our research to include the Global Burden of Disease (GBD) dataset, which covers mental diseases, suicide rates, and related measures from 1990 to 2019. To delve into individual-level data, we examined social media, central ladder scores, subjective income vs. depression history, mental health professional availability and affordability, and social connection/loneliness. Our largest survey source was the Wellcome Global Questionnaire, with 119,000 entries.
+
 
 **2. Data Cleaning and Preparation**
 We cleaned, processed, and prepared the dataset to ensure accuracy, consistency, and reliability for analysis and visualization in Tableau.
 
 **3. Data Analysis**
-Using Python in VS Code, we performed exploratory, trend, and comparative analyses to uncover insights, correlations, and patterns related to mental health disorders and suicide.
+Using Python in VS Code, we performed exploratory, trend, and comparative analyses to uncover insights, correlations, and patterns related to 
 
 **4. Data Management**
 To efficiently manage our datasets and collaborate, we stored them in a PostgreSQL database, accessed via a Python connection and engine.
