@@ -20,7 +20,11 @@
 
 <h2> Don't Be Too Harsh on Us Yet...  🛠️</h2>
 
-The project is complete and the code is available in this repo, but certain parts still need to be cleaned and enhanced. Our dashboard is currently only available as a video demo [here](https://drive.google.com/file/d/1v8VPUzXmcHHPwnnUjC3OO-MOWdK4WD4C/view?usp=drive_link).  Feel free to check it out! Stay tuned folks! ✌️
+The project is complete and the code is available in this repo, but certain parts still need to be cleaned and enhanced.
+
+Final stakeholder presentation is available here. 
+
+Our dashboard video demo available [here](https://drive.google.com/file/d/1v8VPUzXmcHHPwnnUjC3OO-MOWdK4WD4C/view?usp=drive_link).  Feel free to check it out! Stay tuned folks! ✌️
 
 <h2> Disclaimer :exclamation:</h2>
 
