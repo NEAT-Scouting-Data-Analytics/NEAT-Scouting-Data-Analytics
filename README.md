@@ -18,10 +18,10 @@
   
 *  **Deliver an Interactive Dashboard**: Create an intuitive Tableau dashboard that allows clients to effectively search for and analyze suitable prospects.
 
-<h2> Disclaimer :exclamation:</h2>
-
-<h6>Please note that this project is non-profit and intended solely to simulate a real-life scenario for educational purposes. The data scraped from NBA.com and Basketball.Realgm.com has not been used for any commercial purposes. The scenario of a scouting agency is entirely fictional, created to fulfill the requirements of a data capstone project.</h6>
-
 <h2> Don't Be Too Harsh on Us Yet...  🛠️</h2>
 
 The project is complete and the code is available in this repo, but certain parts still need to be cleaned and enhanced. The dashboard is currently only available as a video embedded in our uploaded final project presentation. Feel free to check it out! Stay tuned folks! ✌️
+
+<h2> Disclaimer :exclamation:</h2>
+
+<h6>Please note that this project is non-profit and intended solely to simulate a real-life scenario for educational purposes. The data scraped from NBA.com and Basketball.Realgm.com has not been used for any commercial purposes. The scenario of a scouting agency is entirely fictional, created to fulfill the requirements of a data capstone project.</h6>
