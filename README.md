@@ -30,7 +30,7 @@
 
 **5. Visualization**: We developed informative visualizations, including line charts, bar and column charts, heat maps, bubble charts, scatter plots, and interactive dashboards, to effectively present and communicate our data and insights.
 
-**6. Presentation**: For our presentation, we compiled all charts in Google Slides. Check out our final live presentation [here](https://docs.google.com/presentation/d/1sZCOxnJRQ4QfDzAp4Lx4Y3WoB4ifM89R/edit?usp=drive_link&ouid=110180696511227343382&rtpof=true&sd=true).
+**6. Presentation**: For our presentation, we compiled all charts in Google Slides. Check out our final presentation [here](https://docs.google.com/presentation/d/1sZCOxnJRQ4QfDzAp4Lx4Y3WoB4ifM89R/edit?usp=drive_link&ouid=110180696511227343382&rtpof=true&sd=true).
 
 <h2> Don't be too harsh on us just yet...  🛠️</h2>
 
