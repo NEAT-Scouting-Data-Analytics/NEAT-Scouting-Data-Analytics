@@ -12,7 +12,7 @@ Our slogan - Identifying Undervalued Assets Overlooked by Others.
 
 Our project aims to highlight statistical differences where European basketball players stand out compared to their US and international counterparts. Utilizing two major data sources publicly available from **NBA.com** and **Basketball.Realgm.com**, we will focus on identifying specific European countries to watch for emerging talent. The deliverable will be an easy-to-use Tableau dashboard, enabling clients to search for suitable prospects effectively.
 
-<h2> Caveat :exclamation: </h2>
+<h2> Caveat:exclamation:</h2>
 
 ***Please note that this project is non-profit and intended solely to simulate a real-life scenario for educational purposes. The data scraped from NBA.com and Basketball.Realgm.com has not been used for any commercial purposes. The scenario of a scouting agency is entirely fictional, created to fulfill the requirements of a capstone project.***
 
