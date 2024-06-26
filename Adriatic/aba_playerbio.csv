@@ -236,7 +236,7 @@ Year,Player,Pos,HT,WT,Team,Birth City,Draft Status,Nationality
 2020,Erik Benigar,G,5-11,-,Sixt Primorska,N/A,2025 NBA Draft Eligible,Slovenia
 2020,"Kerry Blackshear, Jr.",F,6-10,250,KK Partizan,Orlando (FL),"2020 NBA Draft, Undrafted",United States
 2020,Luka Bogavac,G,6-5,201,KK Mega Bemax,Mojkovac,2025 NBA Draft Eligible,Montenegro
-2020,Adem Bona,C,6-10,245,KK Mega Bemax,Lagos,2026 NBA Draft Eligible,NigeriaTurkey
+2020,Adem Bona,C,6-10,245,KK Mega Bemax,Lagos,2024 NBA Draft Eligible,NigeriaTurkey
 2020,Vuk Boskovic,F,6-6,215,BC Igokea,Trebinje,2025 NBA Draft Eligible,Bosnia and HerzegovinaSerbia
 2020,Rion Brown,G,6-6,200,KK Cedevita Olimpija Ljubljana,Hinesville (GA),"2014 NBA Draft, Undrafted",United States
 2020,Luksa Buljevic,F,6-7,-,KK Cibona,N/A,2024 NBA Draft Eligible,Croatia
@@ -254,7 +254,7 @@ Year,Player,Pos,HT,WT,Team,Birth City,Draft Status,Nationality
 2020,Nemanja Dangubic,F,6-9,176,KK Partizan,Pancevo,2014 Rnd 2 Pick 24,Serbia
 2020,Amedeo Della Valle,G,6-5,190,Buducnost,Alba,"2014 NBA Draft, Undrafted",Italy
 2020,Radovan Djokovic,G,6-6,180,KK Borac Cacak,Belgrade,"2018 NBA Draft, Undrafted",Serbia
-2020,Nikola Djurisic,F,6-8,214,KK Mega Bemax,Ghent,2026 NBA Draft Eligible,BelgiumSerbia
+2020,Nikola Djurisic,F,6-8,214,KK Mega Bemax,Ghent,2024 NBA Draft Eligible,BelgiumSerbia
 2020,Jan Dornik,G,6-6,190,Sixt Primorska,Kranj,"2020 NBA Draft, Undrafted",Slovenia
 2020,Trey Drechsel,F,6-6,205,KK Partizan,Woodinville (WA),"2019 NBA Draft, Undrafted",United States
 2020,Dario Dreznjak,F,6-2,185,KK Zadar,Mostar,"2020 NBA Draft, Undrafted",Bosnia and HerzegovinaCroatia
@@ -390,7 +390,7 @@ Year,Player,Pos,HT,WT,Team,Birth City,Draft Status,Nationality
 2021,Dorde Curcic,F,6-4,-,KK Borac Cacak,N/A,2028 NBA Draft Eligible,Serbia
 2021,Hayden Dalton,F,6-8,195,KK Cedevita Olimpija Ljubljana,Parker (CO),"2018 NBA Draft, Undrafted",United States
 2021,Corey Davis,G,6-1,190,KK Mornar,Ruston (LA),"2019 NBA Draft, Undrafted",United States
-2021,Amsal Delalic,F,6-8,-,BC Igokea,Tuzla,2025 NBA Draft Eligible,Bosnia and Herzegovina
+2021,Amsal Delalic,F,6-7,210,BC Igokea,Tuzla,2028 NBA Draft Eligible,Bosnia and Herzegovina
 2021,Luka Djurovic,G,6-3,176,Studentski Centar Podgorica,Niksic,"2017 NBA Draft, Undrafted",Montenegro
 2021,Zoran Dragic,G,6-5,200,KK Cedevita Olimpija Ljubljana,Ljubljana,"2011 NBA Draft, Undrafted",Slovenia
 2021,Vidan Dronjak,F,6-6,185,KK Partizan,Belgrade,2026 NBA Draft Eligible,Serbia
@@ -408,8 +408,8 @@ Year,Player,Pos,HT,WT,Team,Birth City,Draft Status,Nationality
 2021,Kevon Harris,F,6-5,216,KK Zadar,Lithonia (GA),"2020 NBA Draft, Undrafted",United States
 2021,Austin Hollins,G,6-4,183,KK Crvena Zvezda,Chandler (AZ),"2014 NBA Draft, Undrafted",United States
 2021,Danilo Ivanovic,G,6-0,-,Studentski Centar Podgorica,N/A,2025 NBA Draft Eligible,Montenegro
-2021,Tomislav Ivisic,F,7-0,230,Studentski Centar Podgorica,N/A,2025 NBA Draft Eligible,Croatia
-2021,Zvonimir Ivisic,C,7-2,220,Studentski Centar Podgorica,N/A,2027 NBA Draft Eligible,Croatia
+2021,Tomislav Ivisic,F,7-1,230,Studentski Centar Podgorica,Vodice,2028 NBA Draft Eligible,Croatia
+2021,Zvonimir Ivisic,C,7-2,235,Studentski Centar Podgorica,Vodice,2027 NBA Draft Eligible,Croatia
 2021,Shawn Jones,F,6-8,240,KK Split,Hialeah (FL),"2014 NBA Draft, Undrafted",United StatesKosovo
 2021,Josip Jukic,C,6-10,222,KK Split,Split,"2018 NBA Draft, Undrafted",Croatia
 2021,Filip Kalajzic,F,6-9,-,KK Cibona,N/A,2025 NBA Draft Eligible,Croatia
@@ -477,7 +477,7 @@ Year,Player,Pos,HT,WT,Team,Birth City,Draft Status,Nationality
 2021,Boris Tisma,F,6-9,207,Studentski Centar Podgorica,Zagreb,2024 NBA Draft Eligible,Croatia
 2021,Vasilije Todorovic,G,6-3,-,Studentski Centar Podgorica,N/A,2027 NBA Draft Eligible,Montenegro
 2021,Bojan Tomasevic,C,6-7,220,KK Borac Cacak,Niksic,"2023 NBA Draft, Undrafted",Montenegro
-2021,Nikola Topic,G,6-6,200,KK Crvena Zvezda,Novi Sad,2027 NBA Draft Eligible,Serbia
+2021,Nikola Topic,G,6-6,200,KK Crvena Zvezda,Novi Sad,2024 NBA Draft Eligible,Serbia
 2021,Jose Vildoza,G,6-3,188,KK Cibona,Cordoba,"2018 NBA Draft, Undrafted",Argentina
 2021,Kyle Vinales,G,6-1,180,Studentski Centar Podgorica,Farmington Hills (MI),"2015 NBA Draft, Undrafted",United States
 2021,Andro Vrankovic,F,6-5,-,KK Cibona,N/A,"2022 NBA Draft, Undrafted",Croatia
@@ -523,7 +523,7 @@ Year,Player,Pos,HT,WT,Team,Birth City,Draft Status,Nationality
 2022,Asim Djulovic,F,6-6,-,KK Mega Bemax,N/A,2027 NBA Draft Eligible,Serbia
 2022,Demir Dogan,C,6-10,209,Studentski Centar Podgorica,N/A,2028 NBA Draft Eligible,Turkey
 2022,Strahinja Dragicevic,F,6-7,220,KK Borac Cacak,Cacak,"2008 NBA Draft, Undrafted",Serbia
-2022,Savo Drezgic,G,6-4,187,KK Partizan,Belgrade,2028 NBA Draft Eligible,Serbia
+2022,Savo Drezgic,G,6-3,198,KK Partizan,Belgrade,2029 NBA Draft Eligible,Serbia
 2022,Marino Dubravcic,C,6-9,-,KK Split,N/A,2026 NBA Draft Eligible,Croatia
 2022,Dusan Eric,G,6-1,-,KK Borac Cacak,N/A,2028 NBA Draft Eligible,Serbia
 2022,Dante Exum,G,6-5,214,KK Partizan,Canberra,2014 Rnd 1 Pick 5,Australia
@@ -632,6 +632,7 @@ Year,Player,Pos,HT,WT,Team,Birth City,Draft Status,Nationality
 2022,Jurica Zagorsak,G,6-6,-,KK Zadar,N/A,2027 NBA Draft Eligible,Croatia
 2023,Andrej Acimovic,C,6-9,-,BC Igokea,N/A,2028 NBA Draft Eligible,Bosnia and Herzegovina
 2023,Sean Armand,G,6-5,200,KK Cedevita Olimpija Ljubljana,Brooklyn (NY),"2014 NBA Draft, Undrafted",United States
+2023,Aleksa Asanin,F,6-7,-,Studentski Centar Podgorica,N/A,2028 NBA Draft Eligible,Montenegro
 2023,Niko Bacvic,G,6-3,-,Krka Novo Mesto,N/A,"2019 NBA Draft, Undrafted",Slovenia
 2023,Josip Badrak,G,6-3,-,KK Zadar,N/A,2027 NBA Draft Eligible,Croatia
 2023,Niko Bandov,F,6-7,-,KK Cibona,N/A,2028 NBA Draft Eligible,Croatia
@@ -643,15 +644,17 @@ Year,Player,Pos,HT,WT,Team,Birth City,Draft Status,Nationality
 2023,Joel Bolomboy,FC,6-9,235,KK Crvena Zvezda,Fort Worth (TX),2016 Rnd 2 Pick 22,United StatesRussia
 2023,Mihailo Boskovic,F,6-10,-,BC Igokea,N/A,2024 NBA Draft Eligible,Serbia
 2023,Jacobi Boykins,G,6-6,180,KK Mornar,St. Petersburg (FL),"2018 NBA Draft, Undrafted",United States
-2023,Srda Bulatovic,-,-,-,KK Mornar,N/A,2024 NBA Draft Eligible,-
+2023,Srdja Bulatovic,F,6-8,-,KK Mornar,N/A,2024 NBA Draft Eligible,Montenegro
 2023,Bruno Caboclo,F,6-9,218,KK Partizan,Sao Paulo,2014 Rnd 1 Pick 20,Brazil
 2023,Miha Cerkvenik,G,6-2,-,Krka Novo Mesto,Ljubljana,"2023 NBA Draft, Undrafted",Slovenia
 2023,Isaiah Cousins,G,6-4,191,Krka Novo Mesto,Mount Vernon (NY),2016 Rnd 2 Pick 29,United States
 2023,Matej Crnogorac,F,6-9,-,KK Cibona,N/A,2029 NBA Draft Eligible,Croatia
 2023,Aubrey Dawkins,F,6-6,205,Studentski Centar Podgorica,Palo Alto (CA),"2019 NBA Draft, Undrafted",United States
+2023,Aleksa Dimitrijevic,C,6-9,-,KK Partizan,N/A,2028 NBA Draft Eligible,Serbia
+2023,Bosko Djukanovic,G,6-3,-,Studentski Centar Podgorica,N/A,2027 NBA Draft Eligible,Montenegro
+2023,Andrej Djurisic,-,-,-,KK Mornar,N/A,2024 NBA Draft Eligible,Montenegro
 2023,Yago Dos Santos,G,5-10,188,KK Crvena Zvezda,Sao Paulo,"2019 NBA Draft, Undrafted",Brazil
 2023,P.J. Dozier,G,6-6,205,KK Partizan,Columbia (SC),"2017 NBA Draft, Undrafted",United States
-2023,Asim Dulovic,F,6-6,-,KK Mega Bemax,N/A,2027 NBA Draft Eligible,Serbia
 2023,Tavian Dunn-Martin,G,5-8,155,KK Mornar,Huntington (WV),"2022 NBA Draft, Undrafted",United States
 2023,Faruk Duvnjak,G,6-3,172,BC Igokea,N/A,2028 NBA Draft Eligible,Bosnia and Herzegovina
 2023,Zena Edosomwan,F,6-9,245,Krka Novo Mesto,Los Angeles (CA),"2017 NBA Draft, Undrafted",United StatesNigeria
@@ -662,6 +665,7 @@ Year,Player,Pos,HT,WT,Team,Birth City,Draft Status,Nationality
 2023,Allerik Freeman,G,6-3,200,Buducnost,Charlotte (NC),"2018 NBA Draft, Undrafted",United States
 2023,D.J. Funderburk,C,6-10,225,KK Split,Lakewood (OH),"2021 NBA Draft, Undrafted",United States
 2023,Lazar Gagic,F,6-4,-,FMP Beograd,N/A,2027 NBA Draft Eligible,Serbia
+2023,Nikola Gasic,C,7-0,-,FMP Beograd,N/A,"2023 NBA Draft, Undrafted",Serbia
 2023,Alex Gavrilovic,F,6-9,245,KK Mornar,Strasbourg,"2015 NBA Draft, Undrafted",France
 2023,Rokas Giedraitis,G,6-7,179,KK Crvena Zvezda,Taurage,"2014 NBA Draft, Undrafted",Lithuania
 2023,Freddie Gillespie,F,6-9,245,KK Crvena Zvezda,Saint Paul (MN),"2020 NBA Draft, Undrafted",United States
@@ -678,11 +682,12 @@ Year,Player,Pos,HT,WT,Team,Birth City,Draft Status,Nationality
 2023,Omer Ilyasoglu,G,6-5,188,KK Mega Bemax,Silivri,"2023 NBA Draft, Undrafted",Turkey
 2023,Jere Jakic,F,6-5,-,KK Cibona,N/A,2029 NBA Draft Eligible,Croatia
 2023,Patrik Jambrovic,F,6-8,205,KK Zadar,Cakovec,"2018 NBA Draft, Undrafted",Croatia
-2023,Andrej Jelavic,C,6-10,-,KK Mega Bemax,N/A,2026 NBA Draft Eligible,Croatia
+2023,Andrej Jelavic,C,6-10,224,KK Mega Bemax,Zagreb,2026 NBA Draft Eligible,Croatia
 2023,Jamal Johnson,G,6-4,195,KK Mornar,Birmingham (AL),"2023 NBA Draft, Undrafted",United States
 2023,Strahinja Jovanovic,G,6-2,175,KK Mornar,Belgrade,"2018 NBA Draft, Undrafted",Serbia
 2023,Frank Kaminsky,F,7-0,242,KK Partizan,Lisle (IL),2015 Rnd 1 Pick 9,United States
 2023,Borna Katanovic,F,6-6,-,KK Cibona,N/A,2029 NBA Draft Eligible,Croatia
+2023,Petar Kazic,G,6-2,-,Studentski Centar Podgorica,N/A,2028 NBA Draft Eligible,Montenegro
 2023,Andrej Kostic,F,6-6,-,KK Crvena Zvezda,N/A,2028 NBA Draft Eligible,Serbia
 2023,Josip Krizmanic,G,6-3,-,KK Cibona,N/A,2028 NBA Draft Eligible,Croatia
 2023,Vito Kucic,G,6-4,-,KK Split,N/A,2024 NBA Draft Eligible,Croatia
@@ -699,15 +704,18 @@ Year,Player,Pos,HT,WT,Team,Birth City,Draft Status,Nationality
 2023,Stefan Miljenovic,G,6-3,190,KK Mega Bemax,Niagara Falls,"2022 NBA Draft, Undrafted",Canada
 2023,Mihailo Milutinovic,G,6-2,-,KK Mega Bemax,N/A,2025 NBA Draft Eligible,Serbia
 2023,Stefan Moody,G,5-10,179,BC Igokea,Kissimmee (FL),"2016 NBA Draft, Undrafted",United States
+2023,Ognjen Mrgudovic,-,-,-,KK Mornar,N/A,2024 NBA Draft Eligible,Montenegro
 2023,"Dwight Murray, Jr.",G,6-0,180,KK Mornar,Austell (GA),"2023 NBA Draft, Undrafted",United States
 2023,Shabazz Napier,G,6-1,180,KK Crvena Zvezda,Roxbury (MA),2014 Rnd 1 Pick 24,United StatesPuerto Rico
 2023,Danilo Nikezic,G,6-6,-,Studentski Centar Podgorica,N/A,2029 NBA Draft Eligible,Montenegro
 2023,Brandon Paul,G,6-4,200,Buducnost,Gurnee (IL),"2013 NBA Draft, Undrafted",United States
 2023,David Pavin,G,5-9,-,KK Split,N/A,2027 NBA Draft Eligible,Croatia
 2023,Kruz Perrott-Hunt,F,6-3,195,KK Borac Cacak,Auckland,2024 NBA Draft Eligible,New Zealand
+2023,Nelson Phillips,G,6-5,190,KK Mega Bemax,Warner Robbins (GA),"2023 NBA Draft, Undrafted",United States
 2023,Uros Plavsic,C,7-1,265,KK Mega Bemax,Ivanjica,"2023 NBA Draft, Undrafted",Serbia
 2023,Bine Plut,C,6-7,-,Krka Novo Mesto,N/A,2028 NBA Draft Eligible,Slovenia
 2023,Mateusz Ponitka,G,6-6,206,KK Partizan,Ostrow Wielkopolski,"2015 NBA Draft, Undrafted",Poland
+2023,Konstantin Popovic,F,6-5,-,KK Borac Cacak,N/A,2027 NBA Draft Eligible,Serbia
 2023,Klemen Prepelic,G,6-3,170,KK Cedevita Olimpija Ljubljana,Maribor,"2014 NBA Draft, Undrafted",Slovenia
 2023,Lovro Prkacin,C,6-9,-,KK Cibona,N/A,2026 NBA Draft Eligible,Croatia
 2023,Domagoj Proleta,F,6-8,220,KK Cibona,Dubrovnik,"2020 NBA Draft, Undrafted",Croatia
@@ -716,7 +724,9 @@ Year,Player,Pos,HT,WT,Team,Birth City,Draft Status,Nationality
 2023,Demetre Roberts,G,5-8,162,FMP Beograd,Mount Vernon (NY),"2023 NBA Draft, Undrafted",United States
 2023,Colbey Ross,G,6-1,180,Buducnost,Aurora (CO),"2021 NBA Draft, Undrafted",United States
 2023,Djoko Salic,C,6-11,236,KK Borac Cacak,Sokolac,"2017 NBA Draft, Undrafted",Bosnia and HerzegovinaSerbia
+2023,Vuk Savicic,F,6-7,-,KK Borac Cacak,N/A,2030 NBA Draft Eligible,Serbia
 2023,Ronaldo Segu,G,6-0,160,KK Borac Cacak,Orlando (FL),"2022 NBA Draft, Undrafted",United States
+2023,Vasilije Sestovic,F,6-4,-,KK Mornar,N/A,2029 NBA Draft Eligible,Montenegro
 2023,Alexander Shashkov,C,6-11,200,KK Cedevita Olimpija Ljubljana,Yekaterinburg,"2022 NBA Draft, Undrafted",GermanyRussia
 2023,Cam Shelton,G,6-2,185,KK Split,Chino Hills (CA),"2023 NBA Draft, Undrafted",United States
 2023,Javonte Smart,G,6-4,205,KK Crvena Zvezda,Baton Rouge (LA),"2021 NBA Draft, Undrafted",United States
@@ -724,6 +734,7 @@ Year,Player,Pos,HT,WT,Team,Birth City,Draft Status,Nationality
 2023,Zak Smrekar,G,6-5,-,Krka Novo Mesto,N/A,2028 NBA Draft Eligible,Slovenia
 2023,Amadou Sow,F,6-9,235,KK Cedevita Olimpija Ljubljana,Napa (CA),"2022 NBA Draft, Undrafted",United States
 2023,Jan Span,G,6-1,190,Krka Novo Mesto,Ljubljana,"2014 NBA Draft, Undrafted",Slovenia
+2023,Andrija Spicanovic,-,-,-,KK Mornar,N/A,2024 NBA Draft Eligible,Montenegro
 2023,Alex Stein,G,6-3,190,KK Cibona,Evansville (IN),"2019 NBA Draft, Undrafted",United States
 2023,Shamiel Stevenson,F,6-6,245,KK Split,Toronto,"2022 NBA Draft, Undrafted",Canada
 2023,D.J. Stewart,G,6-6,205,KK Cedevita Olimpija Ljubljana,Avon (MS),"2021 NBA Draft, Undrafted",United States
